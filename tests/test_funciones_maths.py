@@ -1,6 +1,4 @@
-import pytest
-
-from src.funciones_maths import es_par, es_impar
+from src.funciones.funciones_maths import es_par, es_impar
 
 def test_espar_con_par():
     valor = 2
